@@ -4,7 +4,7 @@ Ejemplo que muestra la interacción vía una cadena JSON recuperada desde mysql 
 
 ## Ejemplo completo y funcional, pero con temas pendientes
 
-* Aún falta afinal el despliegue del gráfico final con el manejo de escalas.
+* Aún falta afinar el despliegue del gráfico final con el manejo de escalas.
    
 
 

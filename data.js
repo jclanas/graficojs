@@ -1,0 +1,1 @@
+[{"descripcion":"lechga","valor1":"12"},{"descripcion":"pan","valor1":"45"},{"descripcion":"azucar","valor1":"56"},{"descripcion":"te","valor1":"34"},{"descripcion":"tomate","valor1":"21"},{"descripcion":"harina","valor1":"78"},{"descripcion":"pomelo","valor1":"34"},{"descripcion":"zanahoria","valor1":"56"},{"descripcion":"miel","valor1":"56"}]

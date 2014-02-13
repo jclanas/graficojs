@@ -1,0 +1,26 @@
+#graph {
+	background-color:#000;
+	width:600px;
+	height:300px;
+}
+#livefeed {
+	width:600px;
+	height:300px;
+}
+.axis path,
+.axis line {
+  fill: none;
+  stroke: #fff;
+  shape-rendering: crispEdges;
+}
+ 
+.line {
+  fill: none;
+  stroke: steelblue;
+  stroke-width: 1.5px;
+}
+text {
+	font-family:"Trebuchet MS", Arial, Helvetica, sans-serif;
+	font-size:12px;
+	fill:#9b9b9b;
+}
